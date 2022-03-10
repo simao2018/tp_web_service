@@ -1,0 +1,9 @@
+API Film
+
+à la racine du projet, executer les commandes suivante :
+
+- npm install
+- creér une base de données du nom de : moviedb.
+- ensuite executer la commande suivante pour demarrer le serveur : nest start
+
+l'url open api : http://localhost:3000/api
